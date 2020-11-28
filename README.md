@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 https://www.linkedin.com/in/saurabhkumarsroder/
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sroder&theme=radical&hide=contribs,prs" />
+
