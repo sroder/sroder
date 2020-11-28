@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on Machine Learning NLP German and English Projects
 
-📫 How to reach me: [![LinkedIn][1.1]][1].
+📫 How to reach me:
 
-[1] : https://www.linkedin.com/in/saurabhkumarsroder/
+https://www.linkedin.com/in/saurabhkumarsroder/
 
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
