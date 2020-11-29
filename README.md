@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on Machine Learning NLP German and English Projects
 
 📫 How to reach me:
-
-https://www.linkedin.com/in/saurabhkumarsroder/
+[LinkedIn](https://www.linkedin.com/in/saurabhkumarsroder/)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sroder&theme=dracula&hide=contribs,prs" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroder&layout=compact&theme=dracula" />
