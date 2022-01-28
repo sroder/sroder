@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> Machine Learning and AWS ML Speciality Certified.
-<img align="center" src="https://www.credly.com/badges/8c905e18-46c3-44f4-978b-67bd4062fa5a/public_url" />
+> Machine Learning and [AWS ML Speciality Certified](https://www.credly.com/badges/8c905e18-46c3-44f4-978b-67bd4062fa5a/public_url)
 >  Have 10+ experience in software engineering.
 > I’m looking to collaborate on Python, ML, NLP or any fun projects ;)
 
