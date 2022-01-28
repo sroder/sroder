@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 > I’m currently working with Python in the domain of Natural Language Programming
 
-> I’m currently learning App development with Python
+> Machine Learning and AWS ML Speciality Certified
 
 > I’m looking to collaborate on Machine Learning NLP German and English Projects
 
