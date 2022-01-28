@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> I’m currently working with Python in the domain of Natural Language Programming
 
-> Machine Learning and AWS ML Speciality Certified
-
+> Machine Learning and AWS ML Speciality Certified. Have 10+ experience in software engineering.
 > I’m looking to collaborate on Python, ML, NLP or any fun projects ;)
 
 > How to reach me:
