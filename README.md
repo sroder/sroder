@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 > Machine Learning and AWS ML Speciality Certified
 
-> I’m looking to collaborate on Machine Learning NLP German and English Projects
+> I’m looking to collaborate on Python, ML, NLP or any fun projects ;)
 
 > How to reach me:
 [LinkedIn](https://www.linkedin.com/in/saurabhkumarsroder/)
